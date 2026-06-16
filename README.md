@@ -3,8 +3,9 @@
 [![Platform-Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Build-Gradle](https://img.shields.io/badge/Build-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Language-Java](https://img.shields.io/badge/Language-Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Architecture-SingleActivity](https://img.shields.io/badge/Architecture-Single--Activity%20%2F%20Fragments-blue?style=for-the-badge)](#android-architecture)
-[![License-MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Architecture-Single Activity](https://img.shields.io/badge/Architecture-Single--Activity%20%2F%20Fragments-blue?style=for-the-badge)](#android-architecture)
+
+A modern Android application for personal expense tracking and group bill splitting built with Java, Material Design, and Android Fragments.
 
 **Budget Babu** is a lightweight, high-performance Android financial management application designed to solve two core challenges: tracking individual daily expenses and managing shared group expenses with friends. 
 
@@ -12,7 +13,7 @@ Built with a native Java codebase targeting Android 14 (API 34), Budget Babu del
 
 ---
 
-## Recruiter Summary
+## Project Overview
 
 As a modern portfolio project, Budget Babu demonstrates clean engineering principles, structural optimization, and user-centric design:
 *   **Clean Architecture & UI Modularity**: Implements a Single-Activity pattern, leveraging `FragmentManager` to handle lightweight, lifecycle-aware Fragments (`HomeFragment`, `GroupsFragment`, `FriendsFragment`, `SettingsFragment`).
@@ -25,7 +26,7 @@ As a modern portfolio project, Budget Babu demonstrates clean engineering princi
 ## Key Features
 
 *   **Individual Expense Ledger**: Log personal transactions with amount, category (Travel, Food, Leisure, Miscellaneous), currency selection, notes, and automatically captured timestamps.
-*   **Dynamic Group Management**: Create custom groups, dynamically append members, and automatically register the default user profile (`Mehul`).
+*   **Dynamic Group Management**: Create custom groups, add members, and manage shared expenses efficiently.
 *   **Advanced Bill Splitting Engine**:
     *   **Equal Split**: Automatically divides bills equally among all group members.
     *   **Custom Split**: Empower users to input absolute amounts for each member. Includes a real-time validation check to verify that individual allocations match the total amount.
