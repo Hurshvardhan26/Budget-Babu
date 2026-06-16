@@ -222,12 +222,3 @@ Defined using Version Catalogs (`gradle/libs.versions.toml`) to ensure clean dep
 
 ---
 
-## Screenshots
-
-| Splash Screen | Home Dashboard | Group Details |
-| --- | --- | --- |
-| ![Splash Screen](https://via.placeholder.com/250x500/1A1A1A/FFFFFF?text=Splash+Screen) | ![Home Dashboard](https://via.placeholder.com/250x500/1A1A1A/FFFFFF?text=Home+Dashboard) | ![Group Details](https://via.placeholder.com/250x500/1A1A1A/FFFFFF?text=Group+Details) |
-
-| Friends & Balances | Settings & Dark Mode | Custom Splits Dialog |
-| --- | --- | --- |
-| ![Friends Balance](https://via.placeholder.com/250x500/1A1A1A/FFFFFF?text=Friends+Balances) | ![Settings Theme](https://via.placeholder.com/250x500/1A1A1A/FFFFFF?text=Settings+Preferences) | ![Custom Splits](https://via.placeholder.com/250x500/1A1A1A/FFFFFF?text=Custom+Splits+View) |
