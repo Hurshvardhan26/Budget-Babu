@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Sheep face - more detailed with ears -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M100,40 
+        C60,40 30,70 30,110 
+        C30,150 60,180 100,180 
+        C140,180 170,150 170,110 
+        C170,70 140,40 100,40 Z"/>
+
+    <!-- Left ear -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M60,70 L40,40 L80,60 Z"/>
+
+    <!-- Right ear -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M140,70 L160,40 L120,60 Z"/>
+
+    <!-- Sunglasses frame -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M55,85 
+        C45,85 45,105 55,105 
+        L85,105 
+        C95,105 95,85 85,85 Z"/>
+    
+    <path
+        android:fillColor="#000000"
+        android:pathData="M115,85 
+        C105,85 105,105 115,105 
+        L145,105 
+        C155,105 155,85 145,85 Z"/>
+
+    <!-- Sunglasses bridge -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M85,95 L115,95 L115,97 L85,97 Z"/>
+
+    <!-- Dollar sign -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M90,110 L110,110 L110,115 L105,115 L105,140 L100,140 L100,115 L95,115 L95,140 L90,140 L90,115 L85,115 L85,110 Z"/>
+
+    <!-- Chain necklace -->
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="3"
+        android:pathData="M60,130 C80,150 120,150 140,130"/>
+</vector> 

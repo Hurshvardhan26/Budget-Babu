@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MadApp</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="members">Members</string>
+    <string name="expenses">Expenses</string>
+    <string name="home">Home</string>
+    <string name="groups">Groups</string>
+    <string name="friends">Friends</string>
+    <string name="settings">Settings</string>
+</resources>

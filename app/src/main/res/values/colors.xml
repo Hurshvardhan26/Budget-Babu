@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#FF2196F3</color>  <!-- Material Blue -->
+    <color name="primary_dark">#FF1976D2</color>  <!-- Darker Blue -->
+    <color name="secondary">#FF424242</color>  <!-- Dark gray -->
+    <color name="secondary_dark">#FF212121</color>  <!-- Darker gray -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Surface colors -->
+    <color name="surface">#FF2C2C2C</color>  <!-- Dark surface -->
+    <color name="surface_variant">#FF383838</color>  <!-- Slightly lighter surface -->
+    <color name="on_surface">#FFFFFFFF</color>  <!-- Pure white text for better visibility -->
+    <color name="on_surface_variant">#FFE0E0E0</color>  <!-- Light gray text -->
+    
+    <!-- Additional colors -->
+    <color name="outline">#FF616161</color>  <!-- Medium gray for borders -->
+    <color name="background">#FF1A1A1A</color>  <!-- Darker background -->
+    <color name="error">#FFEF5350</color>  <!-- Brighter error red -->
+    
+    <!-- Status colors -->
+    <color name="positive_amount">#FF4CAF50</color>  <!-- Brighter green -->
+    <color name="negative_amount">#FFFF5252</color>  <!-- Brighter red -->
+    
+    <!-- Tab and Button colors -->
+    <color name="tab_selected">#FF2196F3</color>  <!-- Blue for selected tab -->
+    <color name="tab_unselected">#FF78909C</color>  <!-- Blue-gray for unselected -->
+    <color name="fab_background">#FF2196F3</color>  <!-- Blue FAB -->
+    <color name="dialog_background">#FF2C2C2C</color>  <!-- Dark dialog background -->
+    
+    <!-- Card and List Item Background -->
+    <color name="card_background">#FF2C2C2C</color>  <!-- Dark card background -->
+    <color name="item_background">#FF333333</color>  <!-- Slightly lighter for items -->
+    <color name="ripple_color">#33FFFFFF</color>  <!-- White with 20% opacity for ripple -->
+    
+    <array name="member_circle_colors">
+        <item>#E91E63</item> <!-- Pink -->
+        <item>#9C27B0</item> <!-- Purple -->
+        <item>#673AB7</item> <!-- Deep Purple -->
+        <item>#3F51B5</item> <!-- Indigo -->
+        <item>#2196F3</item> <!-- Blue -->
+        <item>#03A9F4</item> <!-- Light Blue -->
+        <item>#00BCD4</item> <!-- Cyan -->
+        <item>#009688</item> <!-- Teal -->
+        <item>#4CAF50</item> <!-- Green -->
+        <item>#8BC34A</item> <!-- Light Green -->
+    </array>
+</resources>

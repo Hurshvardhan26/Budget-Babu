@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Sheep face -->
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M100,50 A50,50 0 0,1 100,150 A50,50 0 0,1 100,50"/>
+    
+    <!-- Sunglasses -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M70,85 L90,85 L90,95 L70,95 Z"/>
+    <path
+        android:fillColor="#000000"
+        android:pathData="M110,85 L130,85 L130,95 L110,95 Z"/>
+    
+    <!-- Money symbols -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M85,120 L115,120 L115,130 L85,130 Z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M95,110 L105,110 L105,140 L95,140 Z"/>
+</vector> 
